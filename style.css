@@ -365,7 +365,7 @@ section .title::after{
     width: 70%;
 }
 .skills-content .right .js::before{
-    width: 50%;
+    width: 20%;
 }
 .skills-content .right .java::before{
     width: 80%;
